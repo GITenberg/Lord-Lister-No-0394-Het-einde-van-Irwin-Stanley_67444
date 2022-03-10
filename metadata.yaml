@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0394-Het-einde-van-Irwin-Stanley_67444
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '53456'
     url: http://www.gutenberg.org/2009/agents/53456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67444#Lord-Lister-No-0394-Het-einde-van-Irwin-Stanley
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67444'
